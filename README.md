@@ -41,3 +41,4 @@
 ## NOTE:
 
 (An example DATA.json file is given)
+(username: admin Password: admin)
